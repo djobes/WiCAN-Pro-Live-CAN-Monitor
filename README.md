@@ -1,6 +1,8 @@
 # WiCAN-Pro-Live-CAN-Monitor
 CAN Monitor app for the WiCAN Pro over TCP to SLCAN
 
+[Alt text](WiCAN-Monitor.JPG)
+
 WiCAN Pro Live CAN Monitor
 --------------------------
 Windows desktop app (pure Python standard library: tkinter, no pip installs).
