@@ -1,5 +1,8 @@
 # WiCAN-Pro-Live-CAN-Monitor
-CAN Monitor app for the WiCAN Pro over TCP to SLCAN
+Windows based CAN Monitor app for the WiCAN Pro over TCP to SLCAN protocol.
+
+Current requirements, MeatPi WiCAN Pro adaptor, windows 10/11, and python installed.
+
 
 ![Project Screenshot](WiCAN-Monitor.JPG)
 
