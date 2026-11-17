@@ -1,7 +1,6 @@
 # WiCAN-Pro-Live-CAN-Monitor
 CAN Monitor app for the WiCAN Pro over TCP to SLCAN
 
-[Alt text](WiCAN-Monitor.JPG)
 ![Project Screenshot](WiCAN-Monitor.JPG)
 
 WiCAN Pro Live CAN Monitor
